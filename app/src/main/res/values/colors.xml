@@ -2,8 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="clTexto">#FACEDE</color>
+    <color name="clTexto">#043343</color>
     <color name="light_gray">#D8F8F5</color>  <color name="ligth_Blue" >#A0E9FF</color>
-    <color name="light_yellow">#FFF9C4</color> <color name="light_yellow2">#FFFB00</color>
+    <color name="light_yellow">#FFF9C4</color> <color name="light_yellow2">#737244</color>
 
 </resources>

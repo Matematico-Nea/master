@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="combo_equipos">
+            <item>Seleccionar</item>
+            <item>America de Cali</item>
+            <item>Deportivo Cali</item>
+            <item>Millonarios F.C</item>
+            <item>Atletico Huila</item>
+            <item>Aguilas Doradas</item>
+            <item>Deportivo Pasto</item>
+        </string-array>
+
+    </resources>

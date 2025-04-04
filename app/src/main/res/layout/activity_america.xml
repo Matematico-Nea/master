@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradiente_site2"
-    tools:context=".Cali">
+    tools:context=".America">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -16,7 +16,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/TeamName1"
+            android:text="@string/TeamName2"
             android:textColor="@color/clTexto"
             android:gravity="center"
             android:textSize="30sp"
@@ -30,7 +30,7 @@
             android:layout_gravity="start"
             android:background="@drawable/rounded_image"
             android:scaleType="centerCrop"
-            android:src="@drawable/cali" />
+            android:src="@drawable/america" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -40,6 +40,6 @@
             android:textColor="@color/clTexto"
             android:layout_marginBottom="20dp"
             android:textAlignment="center"
-            android:text="@string/TeamDescripcion1"/>
+            android:text="@string/TeamDescripcion2"/>
     </LinearLayout>
 </ScrollView>

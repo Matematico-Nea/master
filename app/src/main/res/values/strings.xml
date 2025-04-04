@@ -1,7 +1,68 @@
 <resources>
-    <string name="TeamNameOne"> Cali </string>
-    <string name="app_name"> app-name </string>
+    <string-array name="combo_equipos">
 
+    </string-array>
+    <string name="app_name">ControlSeleccion</string>
+    <string name="controles_de_seleccion">Controles de Seleccion</string>
+    <string name="tituloCheckbox">RadioButton y CheckBox</string>
 
+    <string name="PlayerName1">Guillermo Celis</string>
+    <string name="PlayerName2">Falcao Garcia</string>
+    <string name="PlayerName3">David Ospina </string>
+    <string name="PlayerName4">Marcus Vinicius</string>
+    <string name="PlayerName5">Juan Sebastian Quintero</string>
+    <string name="PlayerName6">Alejandro Arat</string>
+    <string name="PlayerName7">Caristian Barrios </string>
+
+    <string name="PlayerDescripcion1">
+         Centrocampista colombiano nacido en Sincelejo en 1993. Actualmente juega para Águilas Doradas en la Categoría Primera A
+    </string>
+    <string name="PlayerDescripcion2">
+
+    </string>
+    <string name="PlayerDescripcion3">
+        Delantero colombiano apodado "El Tigre", nacido en Santa Marta en 1986. Es el máximo goleador histórico de la selección Colombia y actualmente juega en Millonarios.
+    </string>
+    <string name="PlayerDescripcion4">
+         Guardameta colombiano nacido en Itagüí en 1988. Es el jugador con más presencias en la selección Colombia y actualmente defiende los colores de Atlético Nacional.
+    </string>
+    <string name="PlayerDescripcion5">
+         Extremo brasileño nacido en 1997. Juega como extremo izquierdo para Independiente Medellín en la Categoría Primera A.
+    </string>
+    <string name="PlayerDescripcion6">
+        Defensa central colombiano nacido en Cali en 1995. Actualmente juega para Deportivo Cali en la Categoría Primera A
+    </string>
+    <string name="PlayerDescripcion7">
+        No encontré información específica sobre este jugador. ¿Podrías verificar el nombre o darme más detalles
+    </string>
+
+    <string name="TeamName1"> Cali </string>
+    <string name="TeamName2"> Cali </string>
+    <string name="TeamName3"> Cali </string>
+    <string name="TeamName4"> Cali </string>
+    <string name="TeamName5"> Cali </string>
+    <string name="TeamName6"> Cali </string>
+    <string name="TeamName7"> Cali </string>
+
+    <string name="TeamDescripcion1">
+        Fundado en 1912, es conocido como "El Glorioso" y "La Amenaza Verde". Es el único equipo colombiano con estadio propio y ha ganado múltiples títulos nacionales e internacionales.
+    </string>
+    <string name="TeamDescripcion2">
+         Apodado "Los Diablos Rojos", este equipo es uno de los más populares y exitosos de Colombia, con una rica historia de títulos nacionales e internacionales
+    </string>
+    <string name="TeamDescripcion3">
+        Fundado en 2008, este equipo ha tenido varias transformaciones y actualmente juega en Rionegro. Es conocido como "El Equipo Dorado
+    </string>
+    <string name="TeamDescripcion4">
+        Fundado en 1913, conocido como "El Poderoso de la Montaña". Ha ganado varios títulos nacionales y es uno de los equipos más representativos de Colombia    </string>
+    <string name="TeamDescripcion5">
+        Fundado en 1990, este equipo de Neiva ha sido campeón de la Primera B en varias ocasiones y es conocido por su equipo femenino, que ganó la Copa Libertadores en 2018
+    </string>
+    <string name="TeamDescripcion6">
+         Fundado en 1946, es uno de los clubes más laureados de Colombia, conocido como "El Ballet Azul". Ha ganado múltiples títulos nacionales e internacionales.
+    </string>
+    <string name="TeamDescripcion7">
+        Fundado en 1947, apodado "El Rey de Copas". Es el equipo más exitoso de Colombia, con múltiples títulos nacionales e internacionales, incluyendo dos Copas Libertadores
+    </string>
 
 </resources>
